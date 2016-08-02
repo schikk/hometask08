@@ -158,7 +158,7 @@
 						<a href="#"><span class="red-text">Read More</span></a>
 					</li>
 					<li> 
-						<img src="img/blog2.jpg" alt="blog2">
+						<img src="<?php bloginfo(template_url)?>/img/blog2.jpg" alt="blog2">
 						<h3>New models of Bullsy Snickers just arrived</h3>
 						<P>Lorem ipsum dolor sit amet, coct adipiscing elit, ip
 						as consectuni. Lor ipsum dolor sit amet, consec adi
@@ -166,7 +166,7 @@
 						<a href="#"><span class="red-text">Read More</span></a>
 					</li>
 					<li> 
-						<img src="img/blog3.jpg" alt="blog3">
+						<img src="<?php bloginfo(template_url)?>/img/blog3.jpg" alt="blog3">
 						<h3>Extra rugged flip-flops will arrive soon</h3>
 						<P>Lorem ipsum dolor sit amet, coct adipiscing elit, ip
 						as consectuni. Lor ipsum dolor sit amet, consec adi
